@@ -201,8 +201,6 @@ The parity problem in [sieve theory](https://en.wikipedia.org/wiki/sieve_theory)
 
 ## References
 
-<references/>
-
 * Davenport, H. (1980). *Multiplicative Number Theory*. ISBN 978-1-4757-5929-7. doi:[10.1007/978-1-4757-5927-3](https://doi.org/10.1007/978-1-4757-5927-3). [Multiplicative Number Theory](https://link.springer.com/book/10.1007/978-1-4757-5927-3).
 * Iwaniec, H. (2006). *Analytic Number Theory: Lectures given at the C.I.M.E. Summer School held in Cetraro, Italy, July 11–18, 2002*. *Springer* **1891**, 97–132. ISBN 978-3-540-36364-4. doi:[10.1007/978-3-540-36364-4_3](https://doi.org/10.1007/978-3-540-36364-4_3).
 *Montgomery, H. L.; Vaughan, R. C. (2006). *Multiplicative Number Theory I: Classical Theory*. *Cambridge University Press*. ISBN 978-0-521-84903-6. [Multiplicative Number Theory I: Classical Theory](https://www.cambridge.org/core/books/multiplicative-number-theory-i/4E45519B26115AEEA4839C6C38206ACD).
