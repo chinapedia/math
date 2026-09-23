@@ -13,7 +13,7 @@ title: สมมติฐานของรีมันน์
 </figcaption>
 
 </figure>
-**สมมติฐานของรีมัน** (Riemann hypothesis) คือ [ข้อความคาดการณ์](https://en.wikipedia.org/wiki/conjecture) ที่ [ฟังก์ชันซีตาของรีมัน](https://en.wikipedia.org/wiki/Riemann_zeta_function) มี [ค่าศูนย์ของฟังก์ชัน](https://en.wikipedia.org/wiki/Root_of_a_function) เฉพาะที่ [จำนวนเต็มคู่](https://en.wikipedia.org/wiki/even_integer) เป็นลบ และ [จำนวนเชิงซ้อน](https://en.wikipedia.org/wiki/complex_number) ที่มี [ส่วนจริง](https://en.wikipedia.org/wiki/real_part) เท่ากับ $1/2$ หลายคนถือว่ามันคือปัญหาที่ยังไม่ได้รับการแก้ไขที่สำคัญที่สุดใน [คณิตศาสตร์บริสุทธิ์](https://en.wikipedia.org/wiki/pure_mathematics) Bombieri, Enrico (2000). *The Riemann Hypothesis – official problem description*. *สถาบันคณิตศาสตร์เคลย์* [The Riemann Hypothesis – official problem description](https://web.archive.org/web/20151222090027/http://www.claymath.org/sites/default/files/official_problem_description.pdf) มันมีความน่าสนใจมากใน [ทฤษฎีจำนวน](https://en.wikipedia.org/wiki/number_theory) เพราะมันนัยถึงผลลัพธ์เกี่ยวกับการกระจายตัวของ [จำนวนเฉพาะ](https://en.wikipedia.org/wiki/prime_numbers) มันถูกเสนอโดย [แบร์นฮาร์ท รีมัน](https://en.wikipedia.org/wiki/Bernhard_Riemann),[^1] ซึ่งมันถูกตั้งชื่อตามเขา ตามการสำรวจปี 2026 มีหลักฐานเชิงตัวเลขที่ท่วมท้นสำหรับสมมติฐานนี้ แต่ยังไม่มีการพิสูจน์ที่ทราบ.[^2]
+**สมมติฐานของรีมัน** (Riemann hypothesis) คือ [ข้อความคาดการณ์](https://en.wikipedia.org/wiki/conjecture) ที่ [ฟังก์ชันซีตาของรีมัน](./riemann_zeta_function.md) มี [ค่าศูนย์ของฟังก์ชัน](https://en.wikipedia.org/wiki/Root_of_a_function) เฉพาะที่ [จำนวนเต็มคู่](https://en.wikipedia.org/wiki/even_integer) เป็นลบ และ [จำนวนเชิงซ้อน](https://en.wikipedia.org/wiki/complex_number) ที่มี [ส่วนจริง](https://en.wikipedia.org/wiki/real_part) เท่ากับ $1/2$ หลายคนถือว่ามันคือปัญหาที่ยังไม่ได้รับการแก้ไขที่สำคัญที่สุดใน [คณิตศาสตร์บริสุทธิ์](https://en.wikipedia.org/wiki/pure_mathematics) Bombieri, Enrico (2000). *The Riemann Hypothesis – official problem description*. *สถาบันคณิตศาสตร์เคลย์* [The Riemann Hypothesis – official problem description](https://web.archive.org/web/20151222090027/http://www.claymath.org/sites/default/files/official_problem_description.pdf) มันมีความน่าสนใจมากใน [ทฤษฎีจำนวน](https://en.wikipedia.org/wiki/number_theory) เพราะมันนัยถึงผลลัพธ์เกี่ยวกับการกระจายตัวของ [จำนวนเฉพาะ](https://en.wikipedia.org/wiki/prime_numbers) มันถูกเสนอโดย [แบร์นฮาร์ท รีมัน](https://en.wikipedia.org/wiki/Bernhard_Riemann),[^1] ซึ่งมันถูกตั้งชื่อตามเขา ตามการสำรวจปี 2026 มีหลักฐานเชิงตัวเลขที่ท่วมท้นสำหรับสมมติฐานนี้ แต่ยังไม่มีการพิสูจน์ที่ทราบ.[^2]
 
 สมมติฐานของรีมันและบางส่วนของคำทำนายทั่วไปของมัน รวมถึง [ข้อความคาดการณ์ของก็อลท์บัค](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture) และ [ข้อความคาดการณ์ของจำนวนเฉพาะแฝด](https://en.wikipedia.org/wiki/twin_prime_conjecture) รวมอยู่ใน [ปัญหารายการที่แปดของดาวิท ฮิลเบิร์ท](https://en.wikipedia.org/wiki/Hilbert%27s_eighth_problem) ในรายการ [ปัญหาคณิตศาสตร์ที่ยังไม่ได้รับการแก้](https://en.wikipedia.org/wiki/Hilbert%27s_problems) ของ [ดาวิท ฮิลเบิร์ท](https://en.wikipedia.org/wiki/David_Hilbert); มันยังเป็นหนึ่งใน [ปัญหารางวัลมิลเลนเนียม](https://en.wikipedia.org/wiki/Millennium_Prize_Problems) ของ [สถาบันคณิตศาสตร์เคลย์](https://en.wikipedia.org/wiki/Clay_Mathematics_Institute) ซึ่งเสนอ [US$](https://en.wikipedia.org/wiki/US%24) 1 ล้านดอลลาร์สหรัฐสำหรับคำตอบของปัญหาใด ๆ ในรายการนี้ ชื่อเรียกนี้ยังถูกใช้สำหรับบางรูปแบบที่คล้ายคลึงกันอย่างใกล้ชิด บางส่วนได้รับการพิสูจน์แล้ว เช่น [สมมติฐานของรีมันสำหรับเส้นโค้งเหนือฟิลด์จำกัด](https://en.wikipedia.org/wiki/Riemann_hypothesis_for_curves_over_finite_fields) ซึ่งได้รับการพิสูจน์โดย [อันเดร เวย์ล์](https://en.wikipedia.org/wiki/Andr%C3%A9_Weil)
 
@@ -47,7 +47,7 @@ $$
 
 ภายในบริเวณของการลู่เข้าของอนุกรมทั้งสอง แต่อนุกรมของฟังก์ชันอีตาของดรีเคลทางด้านขวาจะลู่เข้านั้นไม่เพียงแต่เมื่อส่วนจริงของ $s$ มากกว่าหนึ่ง แต่โดยทั่วไปแล้วไม่ว่า $s$ จะมีส่วนจริงเป็นบวก ดังนั้น ฟังก์ชันซีตาจึงสามารถนิยามใหม่เป็น $\eta(s)/(1-2/2^s)$ ขยายมันจาก $\operatorname{Re}(s)>1$ ไปยังโดเมนที่ใหญ่กว่า $\operatorname{Re}(s)>0$ ยกเว้นจุดที่ $1-2/2^s$ เป็นศูนย์ นี่คือจุด $s = 1 + 2\pi in/\log 2$ ซึ่ง $n$ สามารถเป็นจำนวนเต็มที่ไม่เป็นศูนย์ใดๆ ได้; ฟังก์ชันซีตาสามารถขยายไปยังค่าเหล่านี้ได้ด้วยโดยการใช้ลิมิต (ดูบทความเกี่ยวกับ [ฟังก์ชันอีตาของดีรีเคล](https://en.wikipedia.org/wiki/Dirichlet_eta_function#Landau%27s_problem_with_%CE%B6%28s%29_%3D_%CE%B7%28s%29/0_and_solutions)) ให้ค่าจำกัดสำหรับทุกค่าของ $s$ ที่มีส่วนจริงเป็นบวก ยกเว้น [simple pole](https://en.wikipedia.org/wiki/simple_pole) ที่ $s = 1$
 
-ในแถบ $0<\operatorname{Re}(s)<1$ การขยายของฟังก์ชันซีตาของรีมันนี้สอดคล้องกับ [สมการเชิงฟังก์ชัน](https://en.wikipedia.org/wiki/Riemann_zeta_function#Riemann%27s_functional_equation)
+ในแถบ $0<\operatorname{Re}(s)<1$ การขยายของฟังก์ชันซีตาของรีมันนี้สอดคล้องกับ [สมการเชิงฟังก์ชัน](./riemann_zeta_function.md#สมการเชิงฟังก์ชันของรีมันน์)
 
 $$
 \zeta(s) = 2^s\pi^{s-1}\ \sin\left(\frac{\pi s}{2}\right)\ \Gamma(1-s)\ \zeta(1-s).
@@ -181,7 +181,7 @@ $$
 
 สำหรับทุก $x\geq 73.2$ โดยที่ $\psi(x)$ คือ [ฟังก์ชันที่สองของเชบิเชฟ](https://en.wikipedia.org/wiki/Chebyshev_function)
 
-อาเดรียน ดึเดก[^7] ได้พิสูจน์ว่าสมมติฐานของรีมัน ([สมมติฐานของรีมัน](https://en.wikipedia.org/wiki/Riemann_hypothesis)) นั้นนัยสำคัญว่า สำหรับ $x \geq 2$ จะมีจำนวนเฉพาะ $p$ ที่สอดคล้องกับ
+อาเดรียน ดึเดก[^7] ได้พิสูจน์ว่าสมมติฐานของรีมัน ([สมมติฐานของรีมัน](./riemann_hypothesis.md)) นั้นนัยสำคัญว่า สำหรับ $x \geq 2$ จะมีจำนวนเฉพาะ $p$ ที่สอดคล้องกับ
   $x - \frac{4}{\pi} \sqrt x \log x < p \leq x$.
 ค่าคงที่ $4/\pi$ อาจลดลงเหลือ $1+\varepsilon$ ได้ก็ต่อเมื่อ $x$ มีค่ามากเพียงพอ นี่เป็นรูปแบบที่ชัดเจนของทฤษฎีบทของ [Cramér](https://en.wikipedia.org/wiki/Cram%C3%A9r)
 
@@ -376,7 +376,7 @@ $$
 
 ### หลักการกีดกันกลาง
 
-ผลสืบเนื่องบางประการของสมมติฐานของรีมัน (RH) ก็เป็นผลสืบเนื่องของการปฏิเสธของมันเช่นกัน และจึงเป็นทฤษฎีบท ในการอภิปรายของ [Hecke, Deuring, Mordell, Heilbronn theorem](https://en.wikipedia.org/wiki/Riemann_hypothesis#Gauss%27s_class_number_conjecture) Ireland, Kenneth; Rosen, Michael (1990). *A Classical Introduction to Modern Number Theory (Second edition)*. *Springer*. ISBN 0-387-97329-X, 359. กล่าวไว้ว่า
+ผลสืบเนื่องบางประการของสมมติฐานของรีมัน (RH) ก็เป็นผลสืบเนื่องของการปฏิเสธของมันเช่นกัน และจึงเป็นทฤษฎีบท ในการอภิปรายของ [Hecke, Deuring, Mordell, Heilbronn theorem](./riemann_hypothesis.md#ข้อความคาดการณ์ของเกาส์) Ireland, Kenneth; Rosen, Michael (1990). *A Classical Introduction to Modern Number Theory (Second edition)*. *Springer*. ISBN 0-387-97329-X, 359. กล่าวไว้ว่า
 
 > วิธีการพิสูจน์ที่นี่นั้นมหัศจรรย์อย่างยิ่ง หากสมมติฐานของรีมันแบบทั่วไปเป็นจริง แล้วทฤษฎีบทนี้ก็เป็นจริง หากสมมติฐานของรีมันแบบทั่วไปเป็นเท็จ แล้วทฤษฎีบทนี้ก็เป็นจริง ดังนั้น ทฤษฎีบทนี้จึงเป็นจริง!!
 
@@ -672,7 +672,7 @@ Hardy, G. H. (1914). *ฟังก์ชันซีตาของรีมั�
 
 ### ข้อความคาดการณ์ของฟังก์ชันซีตาของเซลเบิร์ก
 
-[Atle Selberg](https://en.wikipedia.org/wiki/Atle_Selberg) ได้ศึกษาปัญหาของ Hardy–Littlewood *2* และพิสูจน์ว่าสำหรับ *ε* > 0 จะมี $T_0 = T_0(\varepsilon) > 0$ และ *c* = *c*(*ε*) > 0 ซึ่งทำให้สำหรับ $T \geq T_0$ และ $H=T^{0.5+\varepsilon}$ อสมการ $N(T+H)-N(T) \geq cH\log T$ เป็นจริง.[^31] Selberg ข้อความคาดการณ์ว่าสิ่งนี้สามารถปรับปรุงให้แน่นขึ้นเป็น $H=T^{0.5}$ [Anatoly Karatsuba](https://en.wikipedia.org/wiki/Anatoly_Karatsuba) ได้พิสูจน์ว่าสำหรับ *ε* คงที่ซึ่งสอดคล้องกับเงื่อนไข 0 \< *ε* \< 0.001, *T* ที่ใหญ่พอ และ $H = T^{a+\varepsilon}$, $a = \tfrac{27}{82} = \tfrac{1}{3} -\tfrac{1}{246}$ ช่วง (*T*, *T*+*H*) จะประกอบด้วยศูนย์จริงอย่างน้อย *cH* log(*T*) ของ [ฟังก์ชันซีตาของรีมัน](https://en.wikipedia.org/wiki/Riemann_zeta_function) $\zeta\left(\tfrac{1}{2}+it\right)$ และดังนั้นจึงยืนยันข้อความคาดการณ์ของ Selberg.[^32] การประมาณค่าของ Selberg และ Karatsuba ไม่สามารถปรับปรุงได้ในแง่ของลำดับการเติบโตเมื่อ *T* → ∞
+[Atle Selberg](https://en.wikipedia.org/wiki/Atle_Selberg) ได้ศึกษาปัญหาของ Hardy–Littlewood *2* และพิสูจน์ว่าสำหรับ *ε* > 0 จะมี $T_0 = T_0(\varepsilon) > 0$ และ *c* = *c*(*ε*) > 0 ซึ่งทำให้สำหรับ $T \geq T_0$ และ $H=T^{0.5+\varepsilon}$ อสมการ $N(T+H)-N(T) \geq cH\log T$ เป็นจริง.[^31] Selberg ข้อความคาดการณ์ว่าสิ่งนี้สามารถปรับปรุงให้แน่นขึ้นเป็น $H=T^{0.5}$ [Anatoly Karatsuba](https://en.wikipedia.org/wiki/Anatoly_Karatsuba) ได้พิสูจน์ว่าสำหรับ *ε* คงที่ซึ่งสอดคล้องกับเงื่อนไข 0 \< *ε* \< 0.001, *T* ที่ใหญ่พอ และ $H = T^{a+\varepsilon}$, $a = \tfrac{27}{82} = \tfrac{1}{3} -\tfrac{1}{246}$ ช่วง (*T*, *T*+*H*) จะประกอบด้วยศูนย์จริงอย่างน้อย *cH* log(*T*) ของ [ฟังก์ชันซีตาของรีมัน](./riemann_zeta_function.md) $\zeta\left(\tfrac{1}{2}+it\right)$ และดังนั้นจึงยืนยันข้อความคาดการณ์ของ Selberg.[^32] การประมาณค่าของ Selberg และ Karatsuba ไม่สามารถปรับปรุงได้ในแง่ของลำดับการเติบโตเมื่อ *T* → ∞
 
 พิสูจน์ว่าข้อความคาดการณ์แบบหนึ่งของ Selberg conjecture ถือได้สำหรับช่วงเกือบทั้งหมด (*T*, *T*+*H*], $H = T^\varepsilon$ โดยที่ *ε* เป็นจำนวนบวกคงที่ที่เล็กเท่าใดก็ได้ ในวิธีของ Karatsuba ช่วยให้สามารถศึกษาจุดศูนย์ของฟังก์ชันซีตาของรีมันบนช่วง "supershort" ของเส้นวิกฤต นั่นคือ บนช่วง (*T*, *T*+*H*], ความยาว *H* ของซึ่งเติบโตช้ากว่าระดับใด ๆ แม้แต่ระดับ *T* ที่เล็กเท่าใดก็ได้เป็นพิเศษ เขาพิสูจน์ว่าสำหรับจำนวนที่กำหนดให้ *ε*, $\varepsilon_1$ ที่สอดคล้องกับเงื่อนไข $0<\varepsilon, \varepsilon_1<1$ ช่วงเกือบทั้งหมด (*T*, *T*+*H*] สำหรับ $H\ge\exp{\{(\log T)^\varepsilon\}}$ มีจุดศูนย์อย่างน้อย $H(\log T)^{1-\varepsilon_1}$ ของฟังก์ชัน $\zeta\left(\tfrac{1}{2}+it\right)$ การประมาณนี้ค่อนข้างใกล้เคียงกับหนึ่งที่ได้จากสมมติฐานของรีมัน
 
@@ -746,7 +746,7 @@ $ x \ge 2657 $ และ $ \frac{9.06}{\log{\log{x}}}\sqrt{\frac{x}{\log{x}}} \l
 
 <figcaption>
 
-นี่คือแผนภาพขั้วของค่าจริง 20 ค่าแรก *r<sub>n</sub>* ของฟังก์ชันซีตาของรีมัน ตามเส้นวิกฤต *ζ*(1/2 + *it*) โดยที่ *t* มีค่าตั้งแต่ 0 ถึง 50 ค่าของ *r<sub>n</sub>* ในช่วงนี้คือศูนย์ที่ไม่สำคัญ 10 ค่าแรก [ฟังก์ชันซีตาของรีมัน](https://en.wikipedia.org/wiki/Riemann_zeta_function) และจุดแกรม 10 ค่าแรก [Gram points](https://en.wikipedia.org/wiki/Riemann_hypothesis#Gram_points) ซึ่งแต่ละค่าถูกติดฉลากด้วย *n* จุดสีแดง 50 จุดถูกพล็อตระหว่างแต่ละ *r<sub>n</sub>* และศูนย์ถูกฉายลงบนวงแหวนสีม่วงแบบรัศมีรวมที่ปรับสเกลเพื่อแสดงความสัมพันธ์ของระยะห่างระหว่างค่าของ t ของพวกมัน
+นี่คือแผนภาพขั้วของค่าจริง 20 ค่าแรก *r<sub>n</sub>* ของฟังก์ชันซีตาของรีมัน ตามเส้นวิกฤต *ζ*(1/2 + *it*) โดยที่ *t* มีค่าตั้งแต่ 0 ถึง 50 ค่าของ *r<sub>n</sub>* ในช่วงนี้คือศูนย์ที่ไม่สำคัญ 10 ค่าแรก [ฟังก์ชันซีตาของรีมัน](./riemann_zeta_function.md) และจุดแกรม 10 ค่าแรก [Gram points](./riemann_hypothesis.md#จุดไวยากรณ์) ซึ่งแต่ละค่าถูกติดฉลากด้วย *n* จุดสีแดง 50 จุดถูกพล็อตระหว่างแต่ละ *r<sub>n</sub>* และศูนย์ถูกฉายลงบนวงแหวนสีม่วงแบบรัศมีรวมที่ปรับสเกลเพื่อแสดงความสัมพันธ์ของระยะห่างระหว่างค่าของ t ของพวกมัน
 กฎของแกรมระบุว่าเส้นโค้งมักจะตัดแกนจริงหนึ่งครั้งระหว่างศูนย์
 
 </figcaption>
