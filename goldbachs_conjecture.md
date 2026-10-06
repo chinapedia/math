@@ -209,5 +209,5 @@ Goldbach's conjecture is a plot device in the [Frederik Pohl](https://en.wikiped
 *
 * [Goldbach problem](https://encyclopediaofmath.org/wiki/Goldbach_problem), Encyclopedia of Mathematics.
 * [Goldbach's original letter to Euler — PDF format (in German and Latin)](http://www.math.dartmouth.edu/~euler/correspondence/letters/OO0765.pdf) [Archived 2009-09-16](https://web.archive.org/web/20090916213213/http://www.math.dartmouth.edu/~euler/correspondence/letters/OO0765.pdf)
-*[*Goldbach's conjecture*](http://primes.utm.edu/glossary/page.php?sort=GoldbachConjecture) [Archived 2008-09-18](https://web.archive.org/web/20080918221738/http://primes.utm.edu/glossary/page.php?sort=GoldbachConjecture), part of Chris Caldwell's [Prime Pages](https://en.wikipedia.org/wiki/Prime_Pages).
-*[*Goldbach conjecture verification*](https://sweet.ua.pt/tos/goldbach.html), Tomás Oliveira e Silva's distributed computer search.
+* [*Goldbach's conjecture*](http://primes.utm.edu/glossary/page.php?sort=GoldbachConjecture) [Archived 2008-09-18](https://web.archive.org/web/20080918221738/http://primes.utm.edu/glossary/page.php?sort=GoldbachConjecture), part of Chris Caldwell's [Prime Pages](https://en.wikipedia.org/wiki/Prime_Pages).
+* [*Goldbach conjecture verification*](https://sweet.ua.pt/tos/goldbach.html), Tomás Oliveira e Silva's distributed computer search.

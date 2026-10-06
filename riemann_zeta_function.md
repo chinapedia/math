@@ -992,8 +992,6 @@ One can analytically continue these functions to the $n$-dimensional complex spa
 * [Riemann–Siegel theta function](https://en.wikipedia.org/wiki/Riemann%E2%80%93Siegel_theta_function)
 * [ZetaGrid](https://en.wikipedia.org/wiki/ZetaGrid)
 
-## References
-
 ## Sources
 
 * T.M. Apostol. [Zeta and Related Functions](https://dlmf.nist.gov/25), *NIST Digital Library of Mathematical Functions*.
@@ -1005,7 +1003,7 @@ One can analytically continue these functions to the $n$-dimensional complex spa
 * Hardy, G.H. (1949). *Divergent Series*. *Clarendon Press*.
 * Hasse, Helmut (1930). *Ein Summierungsverfahren für die Riemannsche ζ-Reihe*. *Math. Z.* **32**, 458–464. [MR1545177](https://mathscinet.ams.org/mathscinet-getitem?mr=MR1545177). doi:[10.1007/BF01194645](https://doi.org/10.1007/BF01194645). (Globally convergent series expression.)
 * Ivic, Aleksandar (1985). *The Riemann Zeta Function*. *John Wiley & Sons*. ISBN 0-471-80634-X.
-*Motohashi, Y. (1997). *Spectral Theory of the Riemann Zeta-Function*. *Cambridge University Press*. ISBN 0-521-44520-5.
+* Motohashi, Y. (1997). *Spectral Theory of the Riemann Zeta-Function*. *Cambridge University Press*. ISBN 0-521-44520-5.
 * Karatsuba, A.A.; Voronin, S.M. (1992). *The Riemann Zeta-Function*. *W. de Gruyter*.
 * Montgomery, Hugh L.; Vaughan, Robert C. (2007). *Multiplicative Number Theory. I. Classical theory*. *Cambridge University Press* **97**. ISBN 978-0-521-84903-6.
 * Newman, Donald J. (1998). *Analytic Number Theory*. *Springer-Verlag* **177**. ISBN 0-387-98308-2.
