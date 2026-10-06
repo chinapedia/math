@@ -992,8 +992,6 @@ $$
 * [ฟังก์ชันซีตาของรีมัน–ซีเกิล](https://en.wikipedia.org/wiki/Riemann%E2%80%93Siegel_theta_function)
 * [ZetaGrid](https://en.wikipedia.org/wiki/ZetaGrid)
 
-## อ้างอิง
-
 ## แหล่งที่มา
 
 * T.M. Apostol. [ฟังก์ชันซีตาของรีมันและฟังก์ชันที่เกี่ยวข้อง](https://dlmf.nist.gov/25), *NIST Digital Library of Mathematical Functions*.
@@ -1005,7 +1003,7 @@ $$
 อนุกรมลู่ออก*. *Clarendon Press*.
 convergent series expression.)
 * Ivic, Aleksandar (1985). *The Riemann Zeta Function*. *John Wiley & Sons*. ISBN 0-471-80634-X.
-*Motohashi, Y. (1997). *Spectral Theory of the Riemann Zeta-Function*. *Cambridge University Press*. ISBN 0-521-44520-5.
+* Motohashi, Y. (1997). *Spectral Theory of the Riemann Zeta-Function*. *Cambridge University Press*. ISBN 0-521-44520-5.
 * Karatsuba, A.A.; Voronin, S.M. (1992). *The Riemann Zeta-Function*. *W. de Gruyter*.
 * Montgomery, Hugh L.; Vaughan, Robert C. (2007). *Multiplicative Number Theory. I. Classical theory*. *Cambridge University Press* **97**. ISBN 978-0-521-84903-6.
 * Newman, Donald J. (1998). *Analytic Number Theory*. *Springer-Verlag* **177**. ISBN 0-387-98308-2.
